@@ -6,9 +6,9 @@
 
 | Challenge | Platform | Difficulty | Topics | Writeup |
 |-----------|----------|------------|--------|---------|
-| Security Footage | TryHackMe | 🟢 Easy | forensics | [Blog](#https://myportfolio-zeta-eight-71.vercel.app/posts/tryhackme-security-footage-writeup/) |
-| Bavarian | nextrace nexus | 🟢 Easy| forensics | [Blog](#https://myportfolio-zeta-eight-71.vercel.app/posts/guide/nxtrace_challenge/) |
-| HBU | BSides 2025 shellmates| - | forensics | [Blog](#https://myportfolio-zeta-eight-71.vercel.app/posts/new-ctf-writeup/) |
+| Security Footage | TryHackMe | 🟢 Easy | forensics | [Blog](https://myportfolio-zeta-eight-71.vercel.app/posts/tryhackme-security-footage-writeup/) |
+| Bavarian | nextrace nexus | � Medium | forensics | [Blog](https://myportfolio-zeta-eight-71.vercel.app/posts/guide/nxtrace_challenge/) |
+| HBU | BSides 2025 shellmates| - | forensics | [Blog](https://myportfolio-zeta-eight-71.vercel.app/posts/new-ctf-writeup/) |
 
 ---
 
