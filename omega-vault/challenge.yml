@@ -1,0 +1,29 @@
+name: omega-vault
+author: Chouaibdh
+difficulty: hard
+
+description: |-
+A hardened vault service was compromised during incident response.
+Three artifacts survived:
+
+1. A signing transcript from an RSA-CRT device that glitched mid-signature.
+2. A backup key split with secret sharing, but some custodians submitted poisoned shares.
+3. A sealed vault payload encrypted under a hybrid key.
+
+Your mission is to recover the real vault key material and decrypt the final flag.
+Everything needed is inside `vault_bundle.json`.  
+
+
+
+
+flag: nexus{crt_faults_rs_decoding_and_hybrid_key_fusion_omega}
+
+provide:
+  - vault_bundle.json
+  
+
+containers: {}
+expose: {}
+
+visible: true
+deployed: false

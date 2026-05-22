@@ -1,0 +1,25 @@
+name: cursed-bytes
+author: Chouaibdh
+difficulty: medieum
+
+description: |-
+  Suspicious finance-phishing email activity was followed by covert outbound traffic.
+  Recover the final flag in format `nexus{...}` from:
+
+  - `email(1).eml`
+  - `chall.pcapng`
+
+  
+
+flag: nexus{hacker_strongest_secret_is_a_stenographer}
+
+provide:
+  - email(1).eml
+  - chall.pcapng
+  
+
+containers: {}
+expose: {}
+
+visible: true
+deployed: false
