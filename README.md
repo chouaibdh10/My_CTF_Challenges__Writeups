@@ -1,18 +1,24 @@
-# Challenge List
+﻿# 🔐 My CTF Challenges & Writeups
 
-Ce fichier est l'index principal des writeups.
+---
 
-## Challenges
+## 🕵️ DFIR (Digital Forensics & Incident Response)
 
-1. [Nextrace - can_u_see.jpg](./nextrace-can-u-see/README.md)
-2. [TryHackMe - Security Footage Recovery](./tryhackme-security-footage/README.md)
-3. [HBU BSides - IPv6 Hop-by-Hop](./hbu-ipv6-hop-by-hop/README.md)
-4. [Cursed Byte](./cursed-bytes/README.md)
-5. [Omega Vault](./omega-vault/README.md)
+| Challenge | Platform | Difficulty | Topics | Writeup |
+|-----------|----------|------------|--------|---------|
+| Security Footage | TryHackMe |  Easy | forensics | [Blog](https://myportfolio-zeta-eight-71.vercel.app/posts/tryhackme-security-footage-writeup/) |
+| Bavarian | nextrace nexus | easy | forensics | [Blog](https://myportfolio-zeta-eight-71.vercel.app/posts/guide/nxtrace_challenge/) |
+| HBU | BSides 2025 shellmates| Medium| forensics | [Blog](https://myportfolio-zeta-eight-71.vercel.app/posts/new-ctf-writeup/) |
 
-## Notes
+---
 
-- Format des flags: `nexus{...}` (sauf mention contraire)
-- Categorie dominante: Forensics / Network / Crypto
 
-Last updated: 2026-05-22
+---
+
+## 📊 Stats
+
+- **Total Challenges:** 3
+
+---
+
+*Last updated: December 2025*
