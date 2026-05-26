@@ -4,7 +4,7 @@ This is the main index for all challenge writeups in this repository.
 
 ## Challenges
 
-1. [Nextrace - can_u_see.jpg](./nextrace-can-u-see/README.md)
+1. [myNextrace - can_u_see.jpg](./nextrace-can-u-see/README.md)
 Forensics and steganography using EXIF metadata and `steghide`.
 
 2. [TryHackMe - Security Footage Recovery](./tryhackme-security-footage/README.md)
@@ -13,11 +13,14 @@ Recover JPEG footage from HTTP traffic inside a PCAP.
 3. [HBU BSides - IPv6 Hop-by-Hop](./hbu-ipv6-hop-by-hop/README.md)
 Extract covert data hidden in IPv6 Hop-by-Hop PadN options.
 
-4. [Cursed Byte](./cursed-bytes/README.md)
+4. [myNEXzero - Cursed Byte](./cursed-bytes/README.md)
 DNS exfiltration analysis with XOR/zlib decoding and steno reconstruction.
 
-5. [Omega Vault](./omega-vault/README.md)
+5. [myNEXzero - Omega Vault](./omega-vault/README.md)
 Bellcore RSA fault attack + noisy Shamir recovery + stream decryption.
+
+6. [CyberDefenders - Amadey APT-C-36](./cyberdefendears-labs/amadey-apt-c-36/README.md)
+DFIR memory-analysis writeup covering process tree, C2, payload staging, and persistence.
 
 ## Repository Structure
 
@@ -26,8 +29,8 @@ Bellcore RSA fault attack + noisy Shamir recovery + stream decryption.
 - `hbu-ipv6-hop-by-hop/`
 - `cursed-bytes/`
 - `omega-vault/`
+- `cyberdefendears-labs/`
 
-Total challenges: 5
+Total challenges: 6
 
-Last updated: 2026-05-22
-.
+Last updated: 2026-05-26
