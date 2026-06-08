@@ -22,6 +22,9 @@ Bellcore RSA fault attack + noisy Shamir recovery + stream decryption.
 6. [CyberDefenders - Amadey APT-C-36](./cyberdefendears-labs/amadey-apt-c-36/README.md)
 DFIR memory-analysis writeup covering process tree, C2, payload staging, and persistence.
 
+7. [DalCTF](./DalCTF/README.md)
+Reverse engineering and cryptography writeups from DalCTF.
+
 ## Repository Structure
 
 - `nextrace-can-u-see/`
@@ -30,7 +33,8 @@ DFIR memory-analysis writeup covering process tree, C2, payload staging, and per
 - `cursed-bytes/`
 - `omega-vault/`
 - `cyberdefendears-labs/`
+- `DalCTF/`
 
-Total challenges: 6
+Total challenges: 8
 
-Last updated: 2026-05-26
+Last updated: 2026-06-08
