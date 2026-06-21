@@ -25,6 +25,9 @@ DFIR memory-analysis writeup covering process tree, C2, payload staging, and per
 7. [DalCTF](./DalCTF/README.md)
 Reverse engineering and cryptography writeups from DalCTF.
 
+8. [NMCTF](./nmctf/README.md)
+Forensics investigation of an Ubuntu workstation compromised through a malicious invoice and abused opencode/MCP workflow.
+
 ## Repository Structure
 
 - `nextrace-can-u-see/`
@@ -34,7 +37,8 @@ Reverse engineering and cryptography writeups from DalCTF.
 - `omega-vault/`
 - `cyberdefendears-labs/`
 - `DalCTF/`
+- `nmctf/`
 
-Total challenges: 8
+Total challenges: 9
 
-Last updated: 2026-06-08
+Last updated: 2026-06-21
