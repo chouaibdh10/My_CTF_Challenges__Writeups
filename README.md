@@ -31,6 +31,9 @@ Reverse engineering and cryptography writeups from DalCTF.
 9. [NMCTF](./nmctf/README.md)
 Forensics investigation of an Ubuntu workstation compromised through a malicious invoice and abused opencode/MCP workflow.
 
+10. [ITC CTF 2026 - Silent Pulse](./my-challenges/silent-pulse/README.md)
+Network-forensics investigation of periodic HTTP C2 traffic, encoded commands, and file exfiltration.
+
 ## Repository Structure
 
 - `my-challenges/`
@@ -40,6 +43,6 @@ Forensics investigation of an Ubuntu workstation compromised through a malicious
 - `DalCTF/`
 - `nmctf/`
 
-Total challenges: 9
+Total challenges: 10
 
-Last updated: 2026-06-26
+Last updated: 2026-08-02

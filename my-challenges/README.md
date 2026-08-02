@@ -12,3 +12,6 @@ This folder contains writeups and source files for custom CTF challenges.
 
 3. [myNEXzero - Omega Vault](./omega-vault/README.md)
    Bellcore RSA fault attack, noisy Shamir recovery, and stream decryption.
+
+4. [ITC CTF 2026 - Silent Pulse](./silent-pulse/README.md)
+   Network-forensics investigation of HTTP C2 tasking and file exfiltration.
